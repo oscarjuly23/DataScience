@@ -1,0 +1,251 @@
+rank,name,year,decade,rating,genre,certificate,run_time,budget,box_office,directors
+1.0,The Shawshank Redemption,1994,1990.0,9.3,Drama,R,142.0,25000000.0,28884504.0,Frank Darabont
+2.0,The Godfather,1972,1970.0,9.2,"Crime,Drama",R,175.0,6000000.0,250341816.0,Francis Ford Coppola
+3.0,The Dark Knight,2008,2000.0,9.0,Other,PG-13,152.0,185000000.0,1006234167.0,Christopher Nolan
+4.0,The Godfather Part II,1974,1970.0,9.0,"Crime,Drama",R,202.0,13000000.0,47961919.0,Francis Ford Coppola
+5.0,12 Angry Men,1957,1950.0,9.0,"Crime,Drama",Approved,96.0,350000.0,955.0,Sidney Lumet
+6.0,Schindler's List,1993,1990.0,9.0,"Biography,Drama,History",R,195.0,22000000.0,322161245.0,Steven Spielberg
+7.0,The Lord of the Rings: The Return of the King,2003,2000.0,9.0,Other,PG-13,201.0,94000000.0,1146457748.0,Peter Jackson
+8.0,Pulp Fiction,1994,1990.0,8.9,"Crime,Drama",R,154.0,8000000.0,213928762.0,Quentin Tarantino
+9.0,The Lord of the Rings: The Fellowship of the Ring,2001,2000.0,8.8,Other,PG-13,178.0,93000000.0,898204420.0,Peter Jackson
+10.0,"The Good, the Bad and the Ugly",1966,1960.0,8.8,Other,Approved,178.0,1200000.0,25253887.0,Sergio Leone
+11.0,Forrest Gump,1994,1990.0,8.8,"Drama,Romance",PG-13,142.0,55000000.0,678226465.0,Robert Zemeckis
+12.0,Fight Club,1999,1990.0,8.8,Drama,R,139.0,63000000.0,101209702.0,David Fincher
+13.0,The Lord of the Rings: The Two Towers,2002,2000.0,8.8,Other,PG-13,179.0,94000000.0,947944270.0,Peter Jackson
+14.0,Inception,2010,2010.0,8.8,Other,PG-13,148.0,160000000.0,836848102.0,Christopher Nolan
+15.0,Jai Bhim,2021,2020.0,8.8,"Crime,Drama,Mystery",TV-MA,164.0,,,T.J. Gnanavel
+16.0,Star Wars: Episode V - The Empire Strikes Back,1980,1980.0,8.7,Other,PG,124.0,18000000.0,538375067.0,Irvin Kershner
+17.0,The Matrix,1999,1990.0,8.7,Other,R,136.0,63000000.0,467222728.0,"Lana Wachowski,Lilly Wachowski"
+18.0,Goodfellas,1990,1990.0,8.7,Other,R,145.0,25000000.0,47036784.0,Martin Scorsese
+19.0,One Flew Over the Cuckoo's Nest,1975,1970.0,8.7,Drama,18+,133.0,3000000.0,109114817.0,Milos Forman
+20.0,Se7en,1995,1990.0,8.6,"Crime,Drama,Mystery",R,127.0,33000000.0,327333559.0,David Fincher
+21.0,Seven Samurai,1954,1950.0,8.6,Other,Not Rated,207.0,125000000.0,346258.0,Akira Kurosawa
+22.0,It's a Wonderful Life,1946,1940.0,8.6,Other,PG,130.0,3180000.0,8574081.0,Frank Capra
+23.0,The Silence of the Lambs,1991,1990.0,8.6,Other,R,118.0,19000000.0,272742922.0,Jonathan Demme
+24.0,City of God,2002,2000.0,8.6,"Crime,Drama",R,130.0,3300000.0,30680793.0,"Fernando Meirelles,Kátia Lund(co-director)"
+25.0,Saving Private Ryan,1998,1990.0,8.6,"Drama,War",R,169.0,70000000.0,482349603.0,Steven Spielberg
+26.0,Interstellar,2014,2010.0,8.6,Other,PG-13,169.0,165000000.0,773867216.0,Christopher Nolan
+27.0,Life Is Beautiful,1997,1990.0,8.6,Other,PG-13,116.0,20000000.0,230098753.0,Roberto Benigni
+28.0,The Green Mile,1999,1990.0,8.6,Other,R,189.0,60000000.0,286801374.0,Frank Darabont
+29.0,Star Wars: Episode IV - A New Hope,1977,1970.0,8.6,Other,PG,121.0,11000000.0,775398007.0,George Lucas
+30.0,Terminator 2: Judgment Day,1991,1990.0,8.6,Other,R,137.0,102000000.0,520881154.0,James Cameron
+31.0,Spirited Away,2001,2000.0,8.6,Other,PG,125.0,19000000.0,355822319.0,Hayao Miyazaki
+32.0,Harakiri,1962,1960.0,8.6,Other,Not Rated,133.0,,,Masaki Kobayashi
+33.0,Back to the Future,1985,1980.0,8.5,Other,PG,116.0,19000000.0,383336762.0,Robert Zemeckis
+34.0,The Pianist,2002,2000.0,8.5,Other,R,150.0,35000000.0,120072577.0,Roman Polanski
+35.0,Psycho,1960,1960.0,8.5,Other,R,109.0,806947.0,32052925.0,Alfred Hitchcock
+36.0,Parasite,2019,2010.0,8.5,Other,R,132.0,11400000.0,262676096.0,Bong Joon Ho
+37.0,Leon: The Professional,1994,1990.0,8.5,Other,R,110.0,16000000.0,19569225.0,Luc Besson
+38.0,The Lion King,1994,1990.0,8.5,Other,G,88.0,45000000.0,968511805.0,"Roger Allers,Rob Minkoff"
+39.0,Gladiator,2000,2000.0,8.5,Other,R,155.0,103000000.0,503162313.0,Ridley Scott
+40.0,American History X,1998,1990.0,8.5,"Crime,Drama",R,119.0,20000000.0,23875127.0,Tony Kaye
+41.0,The Departed,2006,2000.0,8.5,Other,R,151.0,90000000.0,291480452.0,Martin Scorsese
+42.0,The Usual Suspects,1995,1990.0,8.5,"Crime,Drama,Mystery",R,106.0,6000000.0,23341568.0,Bryan Singer
+43.0,The Prestige,2006,2000.0,8.5,Other,PG-13,130.0,40000000.0,109676311.0,Christopher Nolan
+44.0,Whiplash,2014,2010.0,8.5,Other,R,106.0,3300000.0,49396747.0,Damien Chazelle
+45.0,Casablanca,1942,1940.0,8.5,Other,PG,102.0,950000.0,4626532.0,Michael Curtiz
+46.0,Grave of the Fireflies,1988,1980.0,8.5,Other,Not Rated,89.0,3700000.0,516962.0,Isao Takahata
+47.0,The Intouchables,2011,2010.0,8.5,Other,R,112.0,9500000.0,426588510.0,"Olivier Nakache,Éric Toledano"
+48.0,Modern Times,1936,1930.0,8.5,Other,G,87.0,1500000.0,463618.0,Charles Chaplin
+49.0,Once Upon a Time in the West,1968,1960.0,8.5,Other,PG-13,165.0,5000000.0,5435024.0,Sergio Leone
+50.0,Rear Window,1954,1950.0,8.5,Other,PG,112.0,1000000.0,37034579.0,Alfred Hitchcock
+51.0,Cinema Paradiso,1988,1980.0,8.5,"Drama,Romance",PG,155.0,5000000.0,13019063.0,Giuseppe Tornatore
+52.0,Alien,1979,1970.0,8.5,Other,R,117.0,11000000.0,106285522.0,Ridley Scott
+53.0,City Lights,1931,1930.0,8.5,Other,G,87.0,1500000.0,50419.0,Charles Chaplin
+54.0,Apocalypse Now,1979,1970.0,8.5,Other,R,147.0,31500000.0,104880868.0,Francis Ford Coppola
+55.0,Memento,2000,2000.0,8.4,Other,R,113.0,9000000.0,40047078.0,Christopher Nolan
+56.0,Django Unchained,2012,2010.0,8.4,Other,R,165.0,100000000.0,426074373.0,Quentin Tarantino
+57.0,Indiana Jones and the Raiders of the Lost Ark,1981,1980.0,8.4,Other,PG,115.0,18000000.0,389925971.0,Steven Spielberg
+58.0,WALL·E,2008,2000.0,8.4,Other,G,98.0,180000000.0,521311890.0,Andrew Stanton
+59.0,The Lives of Others,2006,2000.0,8.4,Other,R,137.0,2000000.0,77356942.0,Florian Henckel von Donnersmarck
+60.0,Sunset Blvd.,1950,1950.0,8.4,Other,Passed,110.0,1752000.0,300073.0,Billy Wilder
+61.0,Paths of Glory,1957,1950.0,8.4,"Drama,War",Approved,88.0,935000.0,5252.0,Stanley Kubrick
+62.0,The Shining,1980,1980.0,8.4,Other,R,146.0,19000000.0,47335804.0,Stanley Kubrick
+63.0,The Great Dictator,1940,1940.0,8.4,Other,G,125.0,2000000.0,970263.0,Charles Chaplin
+64.0,Avengers: Infinity War,2018,2010.0,8.4,Other,PG-13,149.0,321000000.0,2052415039.0,"Anthony Russo,Joe Russo"
+65.0,Witness for the Prosecution,1957,1950.0,8.4,"Crime,Drama,Mystery",Approved,116.0,3000000.0,7693.0,Billy Wilder
+66.0,Aliens,1986,1980.0,8.4,Other,R,137.0,18500000.0,131060248.0,James Cameron
+67.0,Spider-Man: Into the Spider-Verse,2018,2010.0,8.4,Other,PG,117.0,90000000.0,,"Bob Persichetti,Peter Ramsey,Rodney Rothman"
+68.0,American Beauty,1999,1990.0,8.4,Drama,R,122.0,15000000.0,356296601.0,Sam Mendes
+69.0,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1960.0,8.4,Other,PG,95.0,1800000.0,9523464.0,Stanley Kubrick
+70.0,The Dark Knight Rises,2012,2010.0,8.4,Other,PG-13,164.0,250000000.0,1081169825.0,Christopher Nolan
+71.0,Oldboy,2003,2000.0,8.4,Other,R,,3000000.0,15421226.0,Park Chan-wook
+72.0,Amadeus,1984,1980.0,8.4,Other,PG,160.0,18000000.0,52066791.0,Milos Forman
+73.0,Coco,2017,2010.0,8.4,"Animation,Adventure,Comedy",PG,105.0,175000000.0,814337054.0,"Lee Unkrich,Adrian Molina(co-directed by)"
+74.0,Joker,2019,2010.0,8.4,Other,R,122.0,55000000.0,1074458282.0,Todd Phillips
+75.0,Braveheart,1995,1990.0,8.4,"Biography,Drama,History",R,178.0,72000000.0,213216216.0,Mel Gibson
+76.0,The Boat,1981,1980.0,8.4,"Drama,War",,,5000000.0,11487676.0,Wolfgang Petersen
+77.0,Avengers: Endgame,2019,2010.0,8.4,Other,PG-13,181.0,356000000.0,2799439100.0,"Anthony Russo,Joe Russo"
+78.0,Princess Mononoke,1997,1990.0,8.4,Other,PG-13,134.0,23500000.0,169000000.0,Hayao Miyazaki
+79.0,Your Name.,2016,2010.0,8.4,Other,TV-PG,106.0,,,Makoto Shinkai
+80.0,3 Idiots,2009,2000.0,8.4,Other,PG-13,170.0,6600000.0,60262836.0,Rajkumar Hirani
+81.0,High and Low,1963,1960.0,8.4,"Crime,Drama,Mystery",Not Rated,143.0,,,Akira Kurosawa
+82.0,Capernaum,2018,2010.0,8.4,Drama,R,126.0,,,Nadine Labaki
+83.0,Come and See,1985,1980.0,8.4,Other,Not Rated,142.0,,,Elem Klimov
+84.0,Hamilton,2020,2020.0,8.4,"Biography,Drama,History",PG-13,160.0,12500000.0,,Thomas Kail
+85.0,Inglourious Basterds,2009,2000.0,8.3,Other,R,153.0,70000000.0,321457747.0,Quentin Tarantino
+86.0,Toy Story,1995,1990.0,8.3,"Animation,Adventure,Comedy",G,81.0,30000000.0,394436586.0,John Lasseter
+87.0,Once Upon a Time in America,1984,1980.0,8.3,"Crime,Drama",R,229.0,30000000.0,5473337.0,Sergio Leone
+88.0,Good Will Hunting,1997,1990.0,8.3,"Drama,Romance",R,126.0,10000000.0,,Gus Van Sant
+89.0,Singin' in the Rain,1952,1950.0,8.3,Other,G,103.0,2540800.0,2000288.0,"Stanley Donen,Gene Kelly"
+90.0,Requiem for a Dream,2000,2000.0,8.3,Drama,Unrated,102.0,4500000.0,7390108.0,Darren Aronofsky
+91.0,Toy Story 3,2010,2010.0,8.3,"Animation,Adventure,Comedy",G,103.0,200000000.0,1067316101.0,Lee Unkrich
+92.0,Star Wars: Episode VI - Return of the Jedi,1983,1980.0,8.3,Other,PG,131.0,32500000.0,475106177.0,Richard Marquand
+93.0,Eternal Sunshine of the Spotless Mind,2004,2000.0,8.3,Other,R,108.0,20000000.0,74036715.0,Michel Gondry
+94.0,2001: A Space Odyssey,1968,1960.0,8.3,Other,G,149.0,12000000.0,65889846.0,Stanley Kubrick
+95.0,Reservoir Dogs,1992,1990.0,8.3,Other,R,99.0,1200000.0,2913644.0,Quentin Tarantino
+96.0,The Hunt,2012,2010.0,8.3,Drama,R,115.0,14000000.0,12400000.0,Thomas Vinterberg
+97.0,Citizen Kane,1941,1940.0,8.3,Other,PG,119.0,839727.0,1645133.0,Orson Welles
+98.0,M,1931,1930.0,8.3,Other,Passed,99.0,,35566.0,Fritz Lang
+99.0,Lawrence of Arabia,1962,1960.0,8.3,Other,Approved,218.0,15000000.0,45720631.0,David Lean
+100.0,North by Northwest,1959,1950.0,8.3,Other,Approved,136.0,3101000.0,142319.0,Alfred Hitchcock
+101.0,Vertigo,1958,1950.0,8.3,Other,PG,128.0,2479000.0,7798146.0,Alfred Hitchcock
+102.0,Ikiru,1952,1950.0,8.3,Drama,Not Rated,143.0,,96302.0,Akira Kurosawa
+103.0,Amélie,2001,2000.0,8.3,Other,R,122.0,10000000.0,174122191.0,Jean-Pierre Jeunet
+104.0,The Apartment,1960,1960.0,8.3,Other,Approved,125.0,3000000.0,18778738.0,Billy Wilder
+105.0,A Clockwork Orange,1971,1970.0,8.3,Other,X,136.0,2200000.0,26960374.0,Stanley Kubrick
+106.0,Double Indemnity,1944,1940.0,8.3,Other,Passed,107.0,927262.0,14651.0,Billy Wilder
+107.0,Full Metal Jacket,1987,1980.0,8.3,"Drama,War",R,116.0,30000000.0,46358827.0,Stanley Kubrick
+108.0,Top Gun: Maverick,2022,2020.0,8.3,Other,PG-13,130.0,170000000.0,1488732821.0,Joseph Kosinski
+109.0,Scarface,1983,1980.0,8.3,"Crime,Drama",R,170.0,25000000.0,65884703.0,Brian De Palma
+110.0,Incendies,2010,2010.0,8.3,Other,R,131.0,6800000.0,6788659.0,Denis Villeneuve
+111.0,To Kill a Mockingbird,1962,1960.0,8.3,"Crime,Drama",Approved,129.0,2000000.0,599146.0,Robert Mulligan
+112.0,Heat,1995,1990.0,8.3,Other,R,170.0,60000000.0,187436818.0,Michael Mann
+113.0,The Sting,1973,1970.0,8.3,Other,PG,129.0,5500000.0,156000000.0,George Roy Hill
+114.0,Up,2009,2000.0,8.3,"Animation,Adventure,Comedy",PG,96.0,175000000.0,735099102.0,"Pete Docter,Bob Peterson(co-director)"
+115.0,A Separation,2011,2010.0,8.3,Drama,PG-13,123.0,500000.0,22926076.0,Asghar Farhadi
+116.0,Metropolis,1927,1920.0,8.3,Other,Not Rated,153.0,6000000.0,1349711.0,Fritz Lang
+117.0,Bicycle Thieves,1948,1940.0,8.3,Drama,Not Rated,89.0,133000.0,436655.0,Vittorio De Sica
+118.0,Like Stars on Earth,2007,2000.0,8.3,Other,PG,165.0,1465576.0,21897373.0,"Aamir Khan,Amole Gupte(uncredited)"
+119.0,Dangal,2016,2010.0,8.3,Other,Not Rated,161.0,10000000.0,311000000.0,Nitesh Tiwari
+120.0,The Kid,1921,1920.0,8.3,Other,Passed,68.0,250000.0,41960.0,Charles Chaplin
+121.0,Judgment at Nuremberg,1961,1960.0,8.3,"Drama,War",Approved,179.0,3000000.0,12180.0,Stanley Kramer
+122.0,Pather Panchali,1955,1950.0,8.3,Drama,Not Rated,125.0,1800.0,135342.0,Satyajit Ray
+123.0,Taxi Driver,1976,1970.0,8.2,"Crime,Drama",R,114.0,1300000.0,28570902.0,Martin Scorsese
+124.0,L.A. Confidential,1997,1990.0,8.2,"Crime,Drama,Mystery",R,138.0,35000000.0,126216940.0,Curtis Hanson
+125.0,Die Hard,1988,1980.0,8.2,Other,R,132.0,28000000.0,141603197.0,John McTiernan
+126.0,Snatch,2000,2000.0,8.2,Other,R,102.0,6000000.0,83557872.0,Guy Ritchie
+127.0,Indiana Jones and the Last Crusade,1989,1980.0,8.2,Other,PG-13,127.0,48000000.0,474171806.0,Steven Spielberg
+128.0,1917,2019,2010.0,8.2,Other,R,119.0,95000000.0,384479940.0,Sam Mendes
+129.0,Downfall,2004,2000.0,8.2,"Biography,Drama,History",R,156.0,13500000.0,92181574.0,Oliver Hirschbiegel
+130.0,For a Few Dollars More,1965,1960.0,8.2,Other,R,132.0,600000.0,15000000.0,Sergio Leone
+131.0,Batman Begins,2005,2000.0,8.2,Other,PG-13,140.0,150000000.0,373672993.0,Christopher Nolan
+132.0,Some Like It Hot,1959,1950.0,8.2,Other,Passed,121.0,2883848.0,195088.0,Billy Wilder
+133.0,The Father,2020,2020.0,8.2,Other,PG-13,97.0,6000000.0,24427162.0,Florian Zeller
+134.0,All About Eve,1950,1950.0,8.2,Drama,Passed,138.0,1400000.0,151052.0,Joseph L. Mankiewicz
+135.0,The Wolf of Wall Street,2013,2010.0,8.2,Other,R,,100000000.0,406878233.0,Martin Scorsese
+136.0,Green Book,2018,2010.0,8.2,Other,PG-13,130.0,23000000.0,321752656.0,Peter Farrelly
+137.0,Casino,1995,1990.0,8.2,"Crime,Drama",R,178.0,52000000.0,116112375.0,Martin Scorsese
+138.0,Ran,1985,1980.0,8.2,Other,R,162.0,11500000.0,4164283.0,Akira Kurosawa
+139.0,Pan's Labyrinth,2006,2000.0,8.2,Other,R,118.0,19000000.0,83862032.0,Guillermo del Toro
+140.0,The Truman Show,1998,1990.0,8.2,Other,PG,103.0,60000000.0,264118201.0,Peter Weir
+141.0,There Will Be Blood,2007,2000.0,8.2,Drama,R,158.0,25000000.0,76182388.0,Paul Thomas Anderson
+142.0,Unforgiven,1992,1990.0,8.2,Other,R,130.0,14400000.0,159167799.0,Clint Eastwood
+143.0,The Sixth Sense,1999,1990.0,8.2,Other,PG-13,107.0,40000000.0,672806432.0,M. Night Shyamalan
+144.0,Shutter Island,2010,2010.0,8.2,Other,R,138.0,80000000.0,294805697.0,Martin Scorsese
+145.0,A Beautiful Mind,2001,2000.0,8.2,Other,PG-13,135.0,58000000.0,316791257.0,Ron Howard
+146.0,Jurassic Park,1993,1990.0,8.2,Other,PG-13,127.0,63000000.0,1109802321.0,Steven Spielberg
+147.0,Yojimbo,1961,1960.0,8.2,Other,Not Rated,110.0,663351.0,46808.0,Akira Kurosawa
+148.0,The Treasure of the Sierra Madre,1948,1940.0,8.2,Other,Passed,126.0,3000000.0,5014000.0,John Huston
+149.0,Monty Python and the Holy Grail,1975,1970.0,8.2,Other,PG,91.0,229575.0,1940906.0,"Terry Gilliam,Terry Jones"
+150.0,The Great Escape,1963,1960.0,8.2,Other,Approved,172.0,4000000.0,228178.0,John Sturges
+151.0,No Country for Old Men,2007,2000.0,8.2,Other,R,122.0,25000000.0,171627434.0,"Ethan Coen,Joel Coen"
+152.0,Spider-Man: No Way Home,2021,2020.0,8.2,Other,PG-13,148.0,200000000.0,1921847111.0,Jon Watts
+153.0,Kill Bill: Vol. 1,2003,2000.0,8.2,Other,R,111.0,30000000.0,180906076.0,Quentin Tarantino
+154.0,Rashomon,1950,1950.0,8.2,"Crime,Drama,Mystery",Not Rated,88.0,250000.0,81379.0,Akira Kurosawa
+155.0,The Thing,1982,1980.0,8.2,Other,R,109.0,15000000.0,19632715.0,John Carpenter
+156.0,Finding Nemo,2003,2000.0,8.2,"Animation,Adventure,Comedy",G,100.0,94000000.0,941637960.0,"Andrew Stanton,Lee Unkrich(co-director)"
+157.0,The Elephant Man,1980,1980.0,8.2,Other,PG,124.0,5000000.0,26023860.0,David Lynch
+158.0,Chinatown,1974,1970.0,8.2,Other,R,130.0,6000000.0,29225935.0,Roman Polanski
+159.0,Raging Bull,1980,1980.0,8.2,Other,R,129.0,18000000.0,23402427.0,Martin Scorsese
+160.0,V for Vendetta,2005,2000.0,8.2,Other,R,132.0,54000000.0,134686457.0,James McTeigue
+161.0,Gone with the Wind,1939,1930.0,8.2,Other,Passed,238.0,3977000.0,402382193.0,"Victor Fleming,George Cukor(uncredited),Sam Wood(uncredited)"
+162.0,"Lock, Stock and Two Smoking Barrels",1998,1990.0,8.2,Other,R,107.0,960000.0,3753929.0,Guy Ritchie
+163.0,Inside Out,2015,2010.0,8.2,"Animation,Adventure,Comedy",PG,95.0,175000000.0,858848019.0,"Pete Docter,Ronnie Del Carmen(co-director)"
+164.0,Dial M for Murder,1954,1950.0,8.2,Other,PG,105.0,1400000.0,31207.0,Alfred Hitchcock
+165.0,The Secret in Their Eyes,2009,2000.0,8.2,Other,R,129.0,19500000.0,35000000.0,Juan José Campanella
+166.0,Howl's Moving Castle,2004,2000.0,8.2,Other,PG,119.0,24000000.0,237536126.0,Hayao Miyazaki
+167.0,The Bridge on the River Kwai,1957,1950.0,8.2,Other,PG,161.0,3000000.0,27200000.0,David Lean
+168.0,Warrior,2011,2010.0,8.2,Other,PG-13,140.0,25000000.0,23308615.0,Gavin O'Connor
+169.0,Children of Heaven,1997,1990.0,8.2,Other,PG,89.0,180000.0,,Majid Majidi
+170.0,Klaus,2019,2010.0,8.2,"Animation,Adventure,Comedy",PG,96.0,40000000.0,,"Sergio Pablos,Carlos Martínez López(co-director)"
+171.0,The Wages of Fear,1953,1950.0,8.2,Other,Not Rated,131.0,,1098.0,Henri-Georges Clouzot
+172.0,Sherlock Jr.,1924,1920.0,8.2,Other,Passed,45.0,,,Buster Keaton
+173.0,Tokyo Story,1953,1950.0,8.2,Drama,Not Rated,136.0,,,Yasujirô Ozu
+174.0,The Passion of Joan of Arc,1928,1920.0,8.2,"Biography,Drama,History",Passed,114.0,,,Carl Theodor Dreyer
+175.0,To Be or Not to Be,1942,1940.0,8.2,Other,Passed,99.0,,,Ernst Lubitsch
+176.0,My Father and My Son,2005,2000.0,8.2,Other,Not Rated,112.0,1400000.0,1349914.0,Çagan Irmak
+177.0,Dersu Uzala,1975,1970.0,8.2,Other,G,142.0,4000000.0,14480.0,Akira Kurosawa
+178.0,"Three Billboards Outside Ebbing, Missouri",2017,2010.0,8.1,Other,R,115.0,15000000.0,162861289.0,Martin McDonagh
+179.0,Trainspotting,1996,1990.0,8.1,Drama,R,93.0,1500000.0,16767475.0,Danny Boyle
+180.0,Prisoners,2013,2010.0,8.1,"Crime,Drama,Mystery",R,153.0,46000000.0,122126687.0,Denis Villeneuve
+181.0,Fargo,1996,1990.0,8.1,Other,R,98.0,7000000.0,60611975.0,"Joel Coen,Ethan Coen(uncredited)"
+182.0,Gran Torino,2008,2000.0,8.1,Drama,R,116.0,33000000.0,269958228.0,Clint Eastwood
+183.0,My Neighbor Totoro,1988,1980.0,8.1,Other,G,86.0,4000000.0,41000000.0,Hayao Miyazaki
+184.0,Catch Me If You Can,2002,2000.0,8.1,Other,PG-13,141.0,52000000.0,252000000.0,Steven Spielberg
+185.0,Million Dollar Baby,2004,2000.0,8.1,Other,PG-13,132.0,30000000.0,216763646.0,Clint Eastwood
+186.0,Blade Runner,1982,1980.0,8.1,Other,R,117.0,28000000.0,41722424.0,Ridley Scott
+187.0,The Gold Rush,1925,1920.0,8.1,Other,Passed,95.0,923000.0,29328.0,Charles Chaplin
+188.0,Before Sunrise,1995,1990.0,8.1,"Drama,Romance",R,101.0,2500000.0,5987386.0,Richard Linklater
+189.0,12 Years a Slave,2013,2010.0,8.1,"Biography,Drama,History",R,134.0,20000000.0,187733202.0,Steve McQueen
+190.0,Harry Potter and the Deathly Hallows: Part 2,2011,2010.0,8.1,Other,PG-13,130.0,125000000.0,1342359942.0,David Yates
+191.0,On the Waterfront,1954,1950.0,8.1,Other,Approved,108.0,910000.0,910000.0,Elia Kazan
+192.0,Ben-Hur,1959,1950.0,8.1,Other,G,212.0,15000000.0,74437720.0,William Wyler
+193.0,Gone Girl,2014,2010.0,8.1,Other,R,149.0,61000000.0,,David Fincher
+194.0,The Grand Budapest Hotel,2014,2010.0,8.1,Other,R,99.0,25000000.0,173082189.0,Wes Anderson
+195.0,Wild Strawberries,1957,1950.0,8.1,"Drama,Romance",Not Rated,91.0,,60418.0,Ingmar Bergman
+196.0,The General,1926,1920.0,8.1,Other,Passed,67.0,750000.0,750000.0,"Clyde Bruckman,Buster Keaton"
+197.0,The Third Man,1949,1940.0,8.1,Other,Approved,93.0,,1226507.0,Carol Reed
+198.0,In the Name of the Father,1993,1990.0,8.1,Other,R,133.0,13000000.0,,Jim Sheridan
+199.0,The Deer Hunter,1978,1970.0,8.1,"Drama,War",R,183.0,15000000.0,49074379.0,Michael Cimino
+200.0,Barry Lyndon,1975,1970.0,8.1,Other,PG,185.0,11000000.0,199632.0,Stanley Kubrick
+201.0,Hacksaw Ridge,2016,2010.0,8.1,"Biography,Drama,History",R,139.0,40000000.0,180563636.0,Mel Gibson
+202.0,Memories of Murder,2003,2000.0,8.1,"Crime,Drama,Mystery",Not Rated,132.0,2800000.0,1166717.0,Bong Joon Ho
+203.0,Wild Tales,2014,2010.0,8.1,Other,R,122.0,4000000.0,,Damián Szifron
+204.0,Mr. Smith Goes to Washington,1939,1930.0,8.1,Other,Passed,129.0,1900000.0,144738.0,Frank Capra
+205.0,Mad Max: Fury Road,2015,2010.0,8.1,Other,R,,150000000.0,415261382.0,George Miller
+206.0,The Seventh Seal,1957,1950.0,8.1,Other,Not Rated,96.0,150000.0,311212.0,Ingmar Bergman
+207.0,Mary and Max,2009,2000.0,8.1,Other,Not Rated,92.0,8240000.0,1740429.0,Adam Elliot
+208.0,How to Train Your Dragon,2010,2010.0,8.1,Other,PG,98.0,165000000.0,494879471.0,"Dean DeBlois,Chris Sanders"
+209.0,Room,2015,2010.0,8.1,Other,R,118.0,13000000.0,35401758.0,Lenny Abrahamson
+210.0,"Monsters, Inc.",2001,2000.0,8.1,"Animation,Adventure,Comedy",G,92.0,115000000.0,579707738.0,"Pete Docter,David Silverman(co-director),Lee Unkrich(co-director)"
+211.0,Jaws,1975,1970.0,8.1,Other,PG,124.0,7000000.0,476512065.0,Steven Spielberg
+212.0,Dead Poets Society,1989,1980.0,8.1,Other,PG,128.0,16400000.0,235860116.0,Peter Weir
+213.0,The Big Lebowski,1998,1990.0,8.1,Other,R,117.0,15000000.0,46969409.0,"Joel Coen,Ethan Coen(uncredited)"
+214.0,Hotel Rwanda,2004,2000.0,8.1,"Biography,Drama,History",PG-13,121.0,17500000.0,33882243.0,Terry George
+215.0,Ford v Ferrari,2019,2010.0,8.1,Other,PG-13,152.0,97600000.0,225508210.0,James Mangold
+216.0,Rocky,1976,1970.0,8.1,Other,PG,,960000.0,117250402.0,John G. Avildsen
+217.0,Platoon,1986,1980.0,8.1,"Drama,War",R,,6000000.0,138545632.0,Oliver Stone
+218.0,Ratatouille,2007,2000.0,8.1,"Animation,Adventure,Comedy",G,111.0,150000000.0,623726085.0,"Brad Bird,Jan Pinkava(co-director)"
+219.0,Spotlight,2015,2010.0,8.1,Other,R,129.0,20000000.0,98690254.0,Tom McCarthy
+220.0,The Terminator,1984,1980.0,8.1,Other,R,107.0,6400000.0,78371200.0,James Cameron
+221.0,Logan,2017,2010.0,8.1,Other,R,137.0,97000000.0,619179950.0,James Mangold
+222.0,Stand by Me,1986,1980.0,8.1,Other,13+,89.0,8000000.0,52287414.0,Rob Reiner
+223.0,Rush,2013,2010.0,8.1,Other,R,123.0,38000000.0,96983009.0,Ron Howard
+224.0,Network,1976,1970.0,8.1,Drama,R,121.0,3800000.0,23690757.0,Sidney Lumet
+225.0,Into the Wild,2007,2000.0,8.1,Other,R,148.0,15000000.0,56675895.0,Sean Penn
+226.0,Before Sunset,2004,2000.0,8.1,"Drama,Romance",R,80.0,3000000.0,,Richard Linklater
+227.0,The Wizard of Oz,1939,1930.0,8.1,Other,G,102.0,2777000.0,25637669.0,"Victor Fleming,George Cukor(uncredited),Mervyn LeRoy(uncredited)"
+228.0,Groundhog Day,1993,1990.0,8.1,Other,PG,101.0,14600000.0,71108591.0,Harold Ramis
+229.0,The Best Years of Our Lives,1946,1940.0,8.1,Other,Approved,170.0,2100000.0,23661347.0,William Wyler
+230.0,The Exorcist,1973,1970.0,8.1,Other,R,122.0,11000000.0,441306145.0,William Friedkin
+231.0,La haine,1995,1990.0,8.1,"Crime,Drama",Not Rated,98.0,2500000.0,15000000.0,Mathieu Kassovitz
+232.0,The Battle of Algiers,1966,1960.0,8.1,"Drama,War",Not Rated,121.0,800000.0,962002.0,Gillo Pontecorvo
+233.0,Pirates of the Caribbean: The Curse of the Black Pearl,2003,2000.0,8.1,Other,PG-13,143.0,140000000.0,654264015.0,Gore Verbinski
+234.0,Hachi: A Dog's Tale,2009,2000.0,8.1,Other,G,93.0,16000000.0,46671235.0,Lasse Hallström
+235.0,The Grapes of Wrath,1940,1940.0,8.1,Drama,Passed,129.0,800000.0,800000.0,John Ford
+236.0,Amores Perros,2000,2000.0,8.1,Other,R,154.0,2000000.0,20908467.0,Alejandro G. Iñárritu
+237.0,Rebecca,1940,1940.0,8.1,Other,Approved,130.0,1288000.0,72275.0,Alfred Hitchcock
+238.0,Cool Hand Luke,1967,1960.0,8.1,"Crime,Drama",GP,127.0,3200000.0,67.0,Stuart Rosenberg
+239.0,The Handmaiden,2016,2010.0,8.1,Other,Not Rated,145.0,9000000.0,38000000.0,Park Chan-wook
+240.0,The 400 Blows,1959,1950.0,8.1,"Crime,Drama",Not Rated,99.0,50000.0,127244.0,François Truffaut
+241.0,The Sound of Music,1965,1960.0,8.1,Other,G,172.0,8200000.0,159428329.0,Robert Wise
+242.0,It Happened One Night,1934,1930.0,8.1,Other,Passed,105.0,325000.0,11477.0,Frank Capra
+243.0,Persona,1966,1960.0,8.1,Other,Not Rated,83.0,250000.0,250000.0,Ingmar Bergman
+244.0,The Iron Giant,1999,1990.0,8.1,Other,PG,86.0,70000000.0,23335817.0,Brad Bird
+245.0,The Help,2011,2010.0,8.1,Drama,PG-13,146.0,25000000.0,216639112.0,Tate Taylor
+246.0,The Incredibles,2004,2000.0,8.0,Other,PG,115.0,92000000.0,631607053.0,Brad Bird
+247.0,Life of Brian,1979,1970.0,8.0,Other,R,94.0,4000000.0,20745728.0,Terry Jones
+248.0,Aladdin,1992,1990.0,8.0,"Animation,Adventure,Comedy",G,90.0,28000000.0,504000000.0,"Ron Clements,John Musker"
+249.0,Gandhi,1982,1980.0,8.0,"Biography,Drama,History",PG,191.0,22000000.0,52767889.0,Richard Attenborough
+250.0,Dances with Wolves,1990,1990.0,8.0,Other,PG-13,181.0,22000000.0,424208848.0,Kevin Costner
